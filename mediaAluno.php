@@ -12,10 +12,10 @@
         <?php
         //Variaveis 
 
-        $nota1 = 40;
-        $nota2 = 50;
-        $nota3 = 60;
-        $nota4 = 60;
+        $nota1 = 50;
+        $nota2 = 60;
+        $nota3 = 70;
+        $nota4 = 80;
         $media;
         $mediaPonderada;
         $peso1 = 1;
